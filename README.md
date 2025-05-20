@@ -18,7 +18,7 @@ Puedes consultar la memoria del proyecto para más detalles técnicos, decisione
 
 Este proyecto está conectado con otros repositorios. Puedes consultar también:
 
-- 🧩 [paypal-redirect-pages]([https://github.com/usuario/repositorio-relacionado](https://github.com/Alejan5drox-08M/paypal_redirect_pages))
+- 🧩 [paypal-redirect-pages](https://github.com/Alejan5drox-08M/paypal_redirect_pages)
 
 ## 🛠️ Tecnologías utilizadas
 
