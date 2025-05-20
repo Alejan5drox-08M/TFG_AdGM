@@ -12,7 +12,7 @@ Aplicación realizada con PowerApps para realizar reservas de pistas deportivas.
 
 Puedes consultar la memoria del proyecto para más detalles técnicos, decisiones de diseño y explicación de la implementación.
 
-👉 [Ver la memoria del proyecto]([./ruta/a/la/memoria.pdf](https://github.com/Alejan5drox-08M/TFG_AdGM/blob/main/Proyecto-Propuesta_25_AdGM.pdf))
+👉 [Ver la memoria del proyecto](https://github.com/Alejan5drox-08M/TFG_AdGM/blob/main/3Proyecto-EsquemaMemoriaDAM-Desarrollo_25%20(1).docx)
 
 ## 🔗 Repositorios relacionados
 
