@@ -14,7 +14,7 @@ Puedes consultar la memoria del proyecto para más detalles técnicos, decisione
 
 👉 [Ver la memoria del proyecto](https://github.com/Alejan5drox-08M/TFG_AdGM/blob/main/3Proyecto-EsquemaMemoriaDAM-Desarrollo_25_AdGM.pdf)
 
-👉 [Ver el manual de usuario](https://github.com/Alejan5drox-08M/TFG_AdGM/blob/main/MANUAL%20DE%20USUARIO_AdGM.pdf)
+👉 [Ver el manual de usuario](https://github.com/Alejan5drox-08M/TFG_AdGM/blob/main/deGregorio_Miguel_Alejandro_Manual_ProyectoFinal_DAM25.pdf)
 
 ## 🔗 Repositorios relacionados
 
